@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="150px" alt="Mario e Yoshi" title="MARIO JUMP GAME" src="./assets/image/favicon.png"></img>
+    <img width="150px" alt="ícone de contador" title="Contador" src="./assets/image/favicon.png"></img>
     <br>
     🔢 Contador - Desafio Javascript DIO 🔢
 </h1>
